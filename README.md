@@ -27,8 +27,8 @@ private static final double DESCUENTO_ESTANDAR = 0.05;
 
 Esto mejora la claridad y permite cambiar los valores fácilmente.
 
-## Simplificación con cláusulas de guarda
-El método original tenía varios niveles de if anidados.
+## Simplificación 
+El método original tenía varios niveles de if.
 Se reescribió para evitar complejidad innecesaria:
 
 Si el importe es ≤ 0 → se devuelve 0
