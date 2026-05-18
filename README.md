@@ -14,15 +14,18 @@ Esto  hace que se entienda mejor la variable.
 
 <img width="683" height="217" alt="image" src="https://github.com/user-attachments/assets/607b05b5-bd0d-4072-a197-d30bcab03e6b" />
 
-No podemos hacerlo a lo bruto tenemos que darle click derecho y rename
+No podemos hacerlo a lo bruto tenemos que darle click derecho y rename. Y cambiamos asi el nombre de todas las variables
 
 
 ## Eliminación de números mágicos
 Los valores de descuento estaban escritos directamente en el código.
+
 Se extrajeron como constantes:
 
 private static final double DESCUENTO_VIP_EXTRA = 0.25;
+
 private static final double DESCUENTO_VIP = 0.15;
+
 private static final double DESCUENTO_ESTANDAR = 0.05;
 
 Esto mejora la claridad y permite cambiar los valores fácilmente.
