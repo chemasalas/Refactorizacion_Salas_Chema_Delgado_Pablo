@@ -39,7 +39,7 @@ Si el importe es ≤ 0 → se devuelve 0
 
 
 
-Si el cliente es VIP → se calcula su descuento
+Si el cliente es VIP → se calcula su descuento.
 
 Si es estándar → se aplica su descuento
 
