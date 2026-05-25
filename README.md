@@ -14,7 +14,7 @@ Esto  hace que se entienda mejor la variable.
 
 <img width="683" height="217" alt="image" src="https://github.com/user-attachments/assets/607b05b5-bd0d-4072-a197-d30bcab03e6b" />
 
-No podemos hacerlo a lo bruto tenemos que darle click derecho y rename. Y cambiamos asi el nombre de todas las variables
+No podemos hacerlo a lo bruto tenemos que darle click derecho y rename. Y cambiamos asi el nombre de todas las variables. Esta es la erramienta que nos da el IDE
 
 
 ## Eliminación de números mágicos
