@@ -18,7 +18,7 @@ No podemos hacerlo a lo bruto tenemos que darle click derecho y rename. Y cambia
 
 
 ## Eliminación de números mágicos
-Los valores de descuento estaban escritos directamente en el código
+Los valores de descuento estaban escritos directamente en el código.
 
 Se extrajeron como constantes:
 
